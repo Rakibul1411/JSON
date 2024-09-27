@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Rony",
+     "phone": [123,456,345,653],
+     "laptop": {
+       "company": "Lenovo",
+       "price": 3400,
+       "model": "core i5"
+     }
+  },
+  {
+    "name": "Akil",
+    "phone": 234  
+  },
+  {
+    "name": "roki",
+    "phone": 560
+  }
+]
